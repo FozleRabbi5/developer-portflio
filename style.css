@@ -4,3 +4,24 @@ body{
 h1,h1{
     font-size: 50px;
 }
+span{
+    color: orange;
+}
+h3{
+    color: rgb(0, 204, 255);
+}
+img{
+    float: right;
+}
+section{
+    display: flex;
+}
+.linkedin{
+    color: rgb(244, 240, 237);
+    background-image: linear-gradient(coral, tomato);
+    display: inline-block;
+    font-weight: 700;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 4px;
+}
